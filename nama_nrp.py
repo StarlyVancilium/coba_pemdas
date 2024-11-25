@@ -4,5 +4,6 @@ def nasipadang(nama,nrp):
 
 nama = "Muhammad Yazid"
 nrp = 152022192
+jurusan = "Informatika"
 
 nasipadang(nama,nrp)
